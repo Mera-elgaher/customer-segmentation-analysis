@@ -1,7 +1,9 @@
 **Customer Data Analysis and Segmentation**
+
 This project involves analyzing customer data and performing customer segmentation using unsupervised learning techniques. The project consists of two main parts: creating a dashboard for stakeholders and implementing customer segmentation using K-Means clustering. Below is a detailed description of each part, including code and visualizations.
 
 **Part 1: Dashboard for Stakeholders**
+
 Objective
 Design and develop a well-structured and informative dashboard that presents key insights from the dataset. This dashboard is designed for stakeholders such as business managers and marketing teams to help them make data-driven decisions.
 
