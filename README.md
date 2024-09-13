@@ -1,4 +1,5 @@
 **📊 Customer Segmentation Analysis Project 🚀**
+
 Objective:
 The main purpose of this project is to analyze customer data and segment customers based on their transactional behavior and demographic information. By grouping customers into meaningful segments, businesses can tailor their marketing strategies, offer personalized promotions, and ultimately enhance customer satisfaction and retention.
 
