@@ -26,7 +26,8 @@ Analyzed each customer segment based on the average number of transactions and b
 Provided insights and recommendations for each cluster:
 Highly engaged customers: Suggested offering loyalty rewards.
 Less engaged customers: Recommended increasing promotional efforts.
-Technologies Used:
+
+# Technologies Used:
 Python for data analysis and clustering.
 Pandas for data manipulation.
 Matplotlib and Seaborn for data visualization.
